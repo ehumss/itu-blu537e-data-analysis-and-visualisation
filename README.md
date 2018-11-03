@@ -1,2 +1,3 @@
-# ITU-BLU537E-data-analysis-and-visualisation
+# İstanbul Technical University
+# BLU537E Data Analysis and Visualisation
 Assignment Solutions 
